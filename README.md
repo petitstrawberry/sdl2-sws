@@ -8,7 +8,7 @@ the fullscreen window, display mode, and input through Scarlet's SWS C client.
 
 The port was exercised with an unmodified Alpine SuperTuxKart 1.5 package on
 Scarlet AArch64 (QEMU HVF + VirGL). The game rendered and was playable. The
-[Scarlet STK recipe](https://github.com/petitstrawberry/stk-scarlet/tree/master/scarlet)
+[Scarlet STK recipe](https://github.com/petitstrawberry/scarlet-bundle-linux/tree/main/producer/recipes/supertuxkart)
 records that installation; the SWS C client remains in
 [Scarlet](https://github.com/petitstrawberry/Scarlet/tree/feature/vulkan/user/lib/sws-client-c).
 
